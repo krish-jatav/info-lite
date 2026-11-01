@@ -45,13 +45,12 @@ export default function Footer() {
           © 2025 Infolite. All rights reserved.
         </div>
         
-        <div className="text-sm text-gray-600 flex items-center">
+        {/* <div className="text-sm text-gray-600 flex items-center">
           <span >Designed By </span>
-          {/* <Heart size={14} className="mx-1 text-red-500" /> */}
           <Link href="https://www.webseeder.in/" className="ml-1 text-sky-500 ">
             WebSeeder Technologies
           </Link>
-        </div>
+        </div> */}
       </div>
     </footer>
   );
