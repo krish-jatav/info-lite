@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+
+
+@theme {
+    --color-Skyy: #4BB1D6;
+    --color-sky-400: #186e86;
+    --color-grey-text: #00000073;
+    --color-bg-grey: #3b3b3b;
+    --color-primary:#444243;
+    --color-para:#444243;
+
+  }
+
+  body {
+  font-family: var(--font-lato);
+}
+
+  
